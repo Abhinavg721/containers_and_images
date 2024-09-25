@@ -1,7 +1,6 @@
 # IN THE WORLD OF UNUSUAL CONTAINERS AND IMAGES
 
 <img src ="https://miro.medium.com/v2/resize:fit:1079/1*3ds-PdxGGMN-ZzJH95_lsA.png">
-<img src ="https://images.shiksha.com/mediadata/images/articles/1700649967php8v6tWG.jpeg">
 <img src ="https://i.octopus.com/blog/2022-q3/top-8-container-registries/blogimage-top8containerregistries-2022.png">
 <img src ="https://miro.medium.com/v2/resize:fit:768/1*vRzCtJAR-sA7rqpllVsYxw.jpeg">
 
@@ -19,7 +18,7 @@
 
 
 
-## [INTRODUCTION]
+## [INTRODUCTION] (#introduction)
 
 Is document mein main **Images** ke baare mein samjhaunga (yahaan hum jpg ya png images ki baat nahi kar rahe jo aam tor pe hum sab jaante hain). Yeh wo Images hain jo hum **DevOps** mein use karte hain, aur saath hi yahaan **Containers** ke baare mein bhi jaankari di jayegi (jo thode bahut waise hi hain jaise hum sochte hain, lekin unse kaafi alag bhi hain).
 

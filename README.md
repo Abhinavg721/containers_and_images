@@ -57,7 +57,7 @@ Sabse common containerization tool Docker h. Ye containers ko build, run, aur ma
 Image building ka matlab h ek ready-to-run environment banana jo ek specific application aur uski dependencies ko include karta h. Image ko banane k liye commonly `Docker` ya similar tools ka use hota h.
 
 Docker Image build karne k steps:-
-`Step 1:` Dockerfile likhna: Ye ek plain text file h jisme instructions hote h ki hamara image kaise buikd hoga. Jaise konsa base image use hoga
+`Step 1:` Dockerfile likhna: Ye ek plain text file h jisme instructions hote h ki hamara image kaise build hoga. Jaise konsa base image use hoga
 (e.g, Ubuntu,Alpine), konsa code copy karna h, dependencies install karni h, aur konsa command chalana h jab container start ho.
 
 #### EXAMPLE DOCKERFILE
@@ -178,7 +178,7 @@ Example: `Docker Hub`,
 * Private organizations ya individuals k liye hote h jo apne images ko secure aur private rakhna chahte h.
 * Private registeries ka use production environments mein hota h jahan sensitive applications k images store kiye jaate h.
 
-#### Advantages od Using Container Registeries: 
+#### Advantages of Using Container Registeries: 
 * Centralized storage hota h.
 * Access Control
 * Integration with CI/CD

@@ -18,7 +18,7 @@
 
 
 
-## [INTRODUCTION] (#introduction)
+## [INTRODUCTION]  (# introduction)
 
 Is document mein main **Images** ke baare mein samjhaunga (yahaan hum jpg ya png images ki baat nahi kar rahe jo aam tor pe hum sab jaante hain). Yeh wo Images hain jo hum **DevOps** mein use karte hain, aur saath hi yahaan **Containers** ke baare mein bhi jaankari di jayegi (jo thode bahut waise hi hain jaise hum sochte hain, lekin unse kaafi alag bhi hain).
 

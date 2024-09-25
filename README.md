@@ -9,7 +9,7 @@
 
 ## [INTRODUCTION](#introduction) (Parichay)
 ## [ABOUT DEVOPS](#about-devops) (DevOps k baare m)
-## [WHAT IS AN IMAGE ?](#what-is-an-image-) (Image kya h?)
+## [WHAT IS AN IMAGE ?](#what-is-an-image-?) (Image kya h?)
 ## [CONTAINER](#container)
 ## [IMAGE BUILDING](#image-building) (Image ko banana)
 ## [IMAGE RUNNING](#image-running) (Image ko chalana)
@@ -18,7 +18,7 @@
 
 
 
-## [INTRODUCTION]  (# introduction)
+## [INTRODUCTION](#introduction)
 
 Is document mein main **Images** ke baare mein samjhaunga (yahaan hum jpg ya png images ki baat nahi kar rahe jo aam tor pe hum sab jaante hain). Yeh wo Images hain jo hum **DevOps** mein use karte hain, aur saath hi yahaan **Containers** ke baare mein bhi jaankari di jayegi (jo thode bahut waise hi hain jaise hum sochte hain, lekin unse kaafi alag bhi hain).
 
@@ -27,7 +27,7 @@ Is document mein main **Images** ke baare mein samjhaunga (yahaan hum jpg ya png
 **DevOps** ek aisi methodology hai jo Development (Dev) aur Operations (Ops) teams ke beech collaboration ko enhance karne ke liye bani hai. Iska main goal yeh hota hai ki software development aur deployment process ko zyada fast, reliable aur efficient banaya ja sake. Isme development team aur IT operations team milkar kaam karte hain, taaki code jaldi se jaldi production mein ja sake, bina kisi breakdown ke.
 
 
-## [WHAT IS AN IMAGE ?](#what-is-an-image-) (Image kya h?)
+## [WHAT IS AN IMAGE ?](#what-is-an-image-?)(Image kya h?)
 
 DevOps mein **Images** ek tarah ka blueprint hote hain jo container ko banane k liye use kiya jata h. Ek **image** k andar wo sab kuch hota h jo apke application ko run karne k liye chahiye hota h ---> jaise code, libraries,external dependencies.
 
